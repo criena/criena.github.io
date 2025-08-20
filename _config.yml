@@ -6,7 +6,8 @@ url: https://karel-dingeldey.de/
 repository: criena/criena.github.io
 
 plugins:
-  - jekyll-default-layout
+  - jekyll-avatar
+  - jekyll-feed
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-seo-tag
