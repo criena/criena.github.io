@@ -1,6 +1,6 @@
 ---
 description: Waffeln ohne Mehl
-style: post
+layout: post
 ---
 # Haferflockenwaffeln
 
