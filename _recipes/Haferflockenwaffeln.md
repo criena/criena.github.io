@@ -1,6 +1,6 @@
 ---
-name: Haferflockenwaffeln
-position: Waffeln ohne Mehl
+description: Waffeln ohne Mehl
+style: default
 ---
 # Haferflockenwaffeln
 
