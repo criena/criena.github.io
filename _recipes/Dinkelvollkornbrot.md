@@ -1,3 +1,7 @@
+---
+description: Vollkornbrot mit Dinkelmehl
+layout: post
+---
 # Dinkelvollkornbrot
 
 ## Zutaten
