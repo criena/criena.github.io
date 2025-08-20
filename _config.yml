@@ -44,7 +44,7 @@ collections:
     permalink: "/:collection/:path/"
   recipes:
     output: true
-    permalink: "/:collection/:path/"
+    #permalink: "/:collection/:path/"
 
 just_the_docs:
   # Define which collections are used in just-the-docs
