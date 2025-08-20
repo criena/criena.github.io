@@ -41,10 +41,8 @@ nav_external_links:
 collections:
   it:
     output: true
-    permalink: "/:collection/:path/"
   recipes:
     output: true
-    #permalink: "/:collection/:path/"
 
 just_the_docs:
   # Define which collections are used in just-the-docs
