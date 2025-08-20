@@ -40,11 +40,13 @@ nav_external_links:
 # Define Jekyll collections
 collections:
   it:
-    permalink: "/:collection/:path/"
     output: true
+    permalink: "/:collection/:path/"
+    relative_directory: "it"
   recipes:
-    permalink: "/:collection/:path/"
     output: true
+    permalink: "/:collection/:path/"
+    relative_directory: "recipes"
 
 just_the_docs:
   # Define which collections are used in just-the-docs
