@@ -42,11 +42,9 @@ collections:
   it:
     output: true
     permalink: "/:collection/:path/"
-    relative_directory: "it"
   recipes:
     output: true
     permalink: "/:collection/:path/"
-    relative_directory: "recipes"
 
 just_the_docs:
   # Define which collections are used in just-the-docs
@@ -54,7 +52,7 @@ just_the_docs:
     # Reference the "tests" collection
     it:
       # Give the collection a name
-      name: "Information Technology"
+      name: "IT Stuff"
       nav_fold: true  # note: this option is new in v0.4
     recipes:
       # Give the collection a name
