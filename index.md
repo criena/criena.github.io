@@ -1,1 +1,1 @@
-Test
+Welcome to my personal space in the vastness of the World Wide Web! I'm glad you stopped by. Here you'll find a collection of my work, thoughts, and projects that reflect who I am and what I'm passionate about. Take a look around, and feel free to reach out — I’d love to connect!
