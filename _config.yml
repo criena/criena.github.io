@@ -10,8 +10,6 @@ url: https://karel-dingeldey.de/
 
 aux_links:
   "Criëna Network": https://criena.net/
-  Github: https://github.com/criena/
-  LinkedIn: https://www.linkedin.com/in/karel-dingeldey/
 
 # Footer last edited timestamp
 last_edit_timestamp: true
@@ -19,6 +17,9 @@ last_edit_time_format: "%Y-%m-d"
 
 # Define Jekyll collections
 collections:
+  it:
+    permalink: "/:collection/:path/"
+    output: true
   recipes:
     permalink: "/:collection/:path/"
     output: true
@@ -27,11 +28,17 @@ just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
     # Reference the "tests" collection
+    it:
+      # Give the collection a name
+      name: "Information Technology"
+      nav_fold: true  # note: this option is new in v0.4
     recipes:
       # Give the collection a name
       name: Recipes
       nav_fold: true  # note: this option is new in v0.4
 
 nav_external_links:
+  - title: Github
+    url: https://github.com/criena/
   - title: LinkedIn
     url: https://www.linkedin.com/in/karel-dingeldey/
