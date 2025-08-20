@@ -1,3 +1,7 @@
+---
+name: Haferflockenwaffeln
+position: Waffeln ohne Mehl
+---
 # Haferflockenwaffeln
 
 ## Zutaten
