@@ -1,19 +1,37 @@
 remote_theme: just-the-docs/just-the-docs
 
-plugins:
-  - jekyll-default-layout
-
 title: Karel W. Dingeldey
 description: A personal space
-
 url: https://karel-dingeldey.de/
+repository: criena/criena.github.io
 
-aux_links:
-  "Criëna Network": https://criena.net/
+plugins:
+  - jekyll-default-layout
 
 # Footer last edited timestamp
 last_edit_timestamp: true
 last_edit_time_format: "%Y-%m-d"
+
+# For copy button on code
+enable_copy_code_button: true
+
+# Show navigation error report
+nav_error_report: true # default is false/nil.
+
+liquid:
+  error_mode: strict
+  strict_filters: true
+
+################################################################################
+
+aux_links:
+  "Criëna Network": https://criena.net/
+
+nav_external_links:
+  - title: Github
+    url: https://github.com/criena/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/karel-dingeldey/
 
 # Define Jekyll collections
 collections:
@@ -36,9 +54,3 @@ just_the_docs:
       # Give the collection a name
       name: Recipes
       nav_fold: true  # note: this option is new in v0.4
-
-nav_external_links:
-  - title: Github
-    url: https://github.com/criena/
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/karel-dingeldey/
