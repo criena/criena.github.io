@@ -2,3 +2,12 @@ remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-default-layout
+
+title: Karel Willem Dingeldey
+description: A personal space
+theme: just-the-docs
+
+url: https://karel-dingeldey.de/
+
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/criena/criena.github.io
