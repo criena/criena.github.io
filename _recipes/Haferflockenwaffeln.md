@@ -13,4 +13,4 @@ layout: post
 - 4	Eier
 
 ## Zubereitung
-Alle Zutaten zu einem homogenen Teig verrÃ¼hren. AnschlieÃŸend unter Einsatz eines Waffeleisens verarbeiten.
+Alle Zutaten zu einem homogenen Teig verrühren. Anschließend unter Einsatz eines Waffeleisens verarbeiten.
