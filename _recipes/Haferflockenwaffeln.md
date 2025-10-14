@@ -7,10 +7,10 @@ layout: post
 ## Zutaten
 - 250g Haferflocken, zart
 - 500ml Milch
-- 6 EL Zucker
-- 1 TL Zimt
 - 4 EL Butter
-- 4	Eier
+- 4-5	Eier
+- 4 EL Ahornsirup (je nach Bedarf)
+- 1 TL Zimt
 
 ## Zubereitung
-Alle Zutaten zu einem homogenen Teig verrühren. Anschließend unter Einsatz eines Waffeleisens verarbeiten.
+Die Haferflocken ausreichend lange in der Milch einweichen lassen. Restliche Zutaten hinzugeben und zu einem homogenen Teig verrühren. Anschließend unter Einsatz eines Waffeleisens verarbeiten.
