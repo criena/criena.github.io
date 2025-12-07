@@ -10,8 +10,9 @@ layout: post
 - 300ml Milch (1,5 % Fett)
 - 2 EL Butter
 - 2 EL Honig (oder bspw. Ahornsirup)
-- 2 EL Rapsöl 
-1 TL Salz
+- 2 EL Rapsöl
+- 1 TL Apfelessig
+- 1 TL Salz
 - 1 Päckchen Trockenhefe (oder ein halber Würfel frische Hefe)
 
 ## Zubereitung
